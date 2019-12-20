@@ -1,0 +1,31 @@
+{
+  "name": "discordjs-bot-4",
+  "version": "0.0.1",
+  "description": "Discord.js Bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo",
+    "start": "node bot.js"
+  },
+  "author": "Ahsw#1971",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "canvas": "^2.6.1",
+    "fs": "^0.0.2",
+    "dotenv": "^8.2.0",
+    "ascii-table": "^0.0.9",
+    "request-promise-native": "^1.0.8",
+    "request": "^2.88.0",
+    "quick.db": "^6.3.2"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/discordjs-bot-4"
+  }
+}
